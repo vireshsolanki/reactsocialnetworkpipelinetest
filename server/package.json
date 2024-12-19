@@ -16,5 +16,9 @@
     "md5": "^2.3.0",
     "morgan": "~1.10.0",
     "sqlite3": "^5.1.6"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "jest-junit": "^16.0.0"
   }
 }
